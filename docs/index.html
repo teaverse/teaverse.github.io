@@ -1,29 +1,30 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>原学茶室 Teaverse</title>
-  <link rel="stylesheet" href="assets/style.css">
-  <link href="assets/tailwind.css" rel="stylesheet">
-  <style type="text/css">
-    @font-face {
-    body{
-         font-family:HarmonyOS_Regular
-    }
-        </style>
-</head>
-<body>
-    <div id="app"></div>
+	<head>
+		<meta charset="UTF-8">
+		<title>茶室集团 - Teaverse</title>
+		<link rel="icon" href="/images/icon.png"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="description" content="Teaverse 茶室集团">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+		<link rel="stylesheet" href="assets/style.css">
+		<style type="text/css">
+		@font-face {
+		body{
+ 			font-family:HarmonyOS_Regular
+		}
+			</style>
+	</head>
+	<body>
+		<div id="app"></div>
 		<div id="background" style="--height: 60vh;"></div>
 		<script>
 			window.$docsify = {
-				name: 'Teaverse',
+				name: 'Teaverse 茶室集团',
 				nameLink: '/',
 				repo: '',
 				repo: '',
 				loadSidebar: true,
-                loadNavbar: true,
 				maxLevel: 2,
 				subMaxLevel: 4,
 				alias: {
@@ -37,12 +38,12 @@
 					},
 					noData: {
 						'/zh-cn/': '找不到结果',
-						'/': '无法查找到索引文件，请换一个关键词'
+						'/': '无法查找到索引，请更换关键词。'
 					}
 				},
 				pagination: {
-					previousText: '上一篇',
-					nextText: '下一篇',
+					previousText: '上一篇文稿',
+					nextText: '下一篇文稿',
 					crossChapter: true,
 					crossChapterText: true,
 				},
@@ -60,6 +61,7 @@
 									<div class="header-container">
 										<div class="title">
 											<span>${$("#main > h1")[0].innerText}<span>
+											<div class="subtitle">Teaverse</div>
 										</div>
 									</div>
 								</div>
@@ -68,11 +70,11 @@
 							$("#edit-history").remove();
 							$("#main").after(`
 								<div class="markdown-section" id="edit-history">
-									<h2>本文结绳 <span id="latest-edit-time"></span></h2>
+									<h2>本文历史 <span id="latest-edit-time"></span></h2>
 									<div id="edit-history-list">
-										本文尚且编写中，暂无历史事迹…
+										本文尚且编写中…
 									</div>
-									<a href="https://github.com/teaverse/teaverse.github.io/edit/main/${getCurrentFilePath()}" _target="_blank" id="edit-history-link">在 Github 上编辑</a>
+									<a href="https://github.com/teaverse/teaverse.github.io/edit/main/${getCurrentFilePath()}" _target="_blank" id="edit-history-link">编辑本报之文</a>
 								</div>
 							`);
 							loadFileCommitHistory();
@@ -334,7 +336,7 @@
 				right: -2px;
 			}
 			#edit-history:after {
-				content: '--LesePaper Copyright © Teahouse Groups. All Rights Reserved.';
+				content: 'Copyright Teaverse All Rights Reserved';
 				position: absolute;
 				bottom: -40px;
 				left: 0;
@@ -542,5 +544,5 @@
 				toggleDarkmode();
 			});
 		</script>
-</body>
+	</body>
 </html>
