@@ -33,11 +33,11 @@
 				search: {
 					placeholder: {
 						'/zh-cn/': '搜索',
-						'/': '键入以检索…'
+						'/': '检索 Search…'
 					},
 					noData: {
 						'/zh-cn/': '找不到结果',
-						'/': '无法查找到索引。'
+						'/': '无法查找 Cant find'
 					}
 				},
 				pagination: {
@@ -104,7 +104,7 @@
 						`;
 					});
 					$("#edit-history-list").html(html);
-					$("#latest-edit-time").html("本文最后更新于 " + humanTimeDiff(res[0].commit.author.date));
+					$("#latest-edit-time").html("本文最后更新于 Last update on " + humanTimeDiff(res[0].commit.author.date));
 				}
 				if (sessionStorage.getItem(`edit-history-${getCurrentFilePath()}'}`)) {
 					processJson(JSON.parse(sessionStorage.getItem(`edit-history-${getCurrentFilePath()}'`)));
@@ -136,10 +136,10 @@
 					return "0 秒前";
 				}
 				if (delta < 1000 * 60 * 60){
-					return parseInt(delta / (1000 * 60)) + " " + "分前";
+					return parseInt(delta / (1000 * 60)) + " " + "分前 min";
 				}
 				if (delta < 1000 * 60 * 60 * 24){
-					return parseInt(delta / (1000 * 60 * 60)) + " " + "时前";
+					return parseInt(delta / (1000 * 60 * 60)) + " " + "时前 hour";
 				}
 				let yesterday = new Date(now - 1000 * 60 * 60 * 24);
 				yesterday.setHours(0);
@@ -449,10 +449,10 @@
 				opacity: 1;
 			}
 			#darkmode-toggle:before {
-				content: '💡 浅色';
+				content: '💡 浅色 Light';
 			}
 			html.darkmode #darkmode-toggle:before {
-				content: '🌙 深色';
+				content: '🌙 深色 Dark';
 			}
 
 			#edit-history {
