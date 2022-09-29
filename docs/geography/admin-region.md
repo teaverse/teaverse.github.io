@@ -13,3 +13,5 @@
 |   至冬   | Snezhnaya  |  冰 Cyro   |              *冰之女皇 Tsaritsa               |    *未开放     |      |
 |  坎瑞亚  | Khaenri'ah | 无元素 No  |                     无 No                     |    *未开放     |      |
 |  天空岛  |  Celestia  |  *未开放   | 天理的维系者 Sustainer of heavenly principles |    *未开放     |      |
+
+## 省/州 一级区域
