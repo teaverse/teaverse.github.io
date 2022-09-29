@@ -1,13 +1,11 @@
-- **首页**
-	- [关于](README.md)
-- **快速指南**
-    - [开始使用](guide/start.md)
-- **设计与开发**
-    - [标准](design/README.md)
-    - [布局](component/layout.md)
-    - [组件](component/README.md)
-    - [Vue.js](develop/vue.md)
-    - [CSS](develop/css.md)
-- **归档**
-	- [Github](https://github.com/lidsgn/liux)
--  **Copyright © 2023 LiDesign**
+- **茶室集团 Teaverse**
+ 	- [关于茶室 About](README.md)
+- **提瓦特地理 Geography**
+	- [行政规划表 Admin-region](geography/admin-region.md)
+- **提瓦特人文 Humanity**
+	- [国家 Country](humanity/country.md)
+	- [语言与文字 Language](humanity/lang.md)
+	- [书籍与文本 Book](humanity/book.md)
+	- [丘语词典 Hilichurlian](humanity/hilichurlian-dictionary.md)
+	- [兰语词典 Aranara](humanity/aranara-dictionary.md)
+-  **Copyright © Teaverse**
