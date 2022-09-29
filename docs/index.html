@@ -3,16 +3,15 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>茶室集团 - Teaverse</title>
-		<link rel="icon" href="/images/icon.png"/>
+		<link rel="icon" href="https://alpha-q3.sourcegcdn.com/2022/08/07/AyOJLoNd.png"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-		<meta name="description" content="Teaverse 茶室集团">
+		<meta name="description" content="茶室集团 - Teaverse | 组织">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 		<link rel="stylesheet" href="assets/style.css">
 		<style type="text/css">
-		@font-face {
-		body{
- 			font-family:HarmonyOS_Regular
-		}
+			body{
+ font-family:HarmonyOS_Regular
+}
 			</style>
 	</head>
 	<body>
@@ -20,13 +19,13 @@
 		<div id="background" style="--height: 60vh;"></div>
 		<script>
 			window.$docsify = {
-				name: 'Teaverse 茶室集团',
-				nameLink: '/',
+				name: '茶室集团 Teaverse',
+				nameLink: '/#/README',
 				repo: '',
 				repo: '',
 				loadSidebar: true,
 				maxLevel: 2,
-				subMaxLevel: 4,
+				subMaxLevel: 3,
 				alias: {
 					'/.*/_sidebar.md': '/_sidebar.md'
 				},
@@ -38,12 +37,12 @@
 					},
 					noData: {
 						'/zh-cn/': '找不到结果',
-						'/': '无法查找到索引，请更换关键词。'
+						'/': '无法查找到索引。'
 					}
 				},
 				pagination: {
-					previousText: '上一篇文稿',
-					nextText: '下一篇文稿',
+					previousText: '上一篇',
+					nextText: '下一篇',
 					crossChapter: true,
 					crossChapterText: true,
 				},
@@ -61,7 +60,7 @@
 									<div class="header-container">
 										<div class="title">
 											<span>${$("#main > h1")[0].innerText}<span>
-											<div class="subtitle">Teaverse</div>
+											<div class="subtitle">饮茶室</div>
 										</div>
 									</div>
 								</div>
@@ -70,11 +69,11 @@
 							$("#edit-history").remove();
 							$("#main").after(`
 								<div class="markdown-section" id="edit-history">
-									<h2>本文历史 <span id="latest-edit-time"></span></h2>
+									<h2>编辑历史 Edit History <span id="latest-edit-time"></span></h2>
 									<div id="edit-history-list">
-										本文尚且编写中…
+										本文尚且编写中… The page are Editing…
 									</div>
-									<a href="https://github.com/teaverse/teaverse.github.io/edit/main/${getCurrentFilePath()}" _target="_blank" id="edit-history-link">编辑本报之文</a>
+									<a href="https://github.com/teaverse/teaverse.github.io/edit/main/${getCurrentFilePath()}" _target="_blank" id="edit-history-link">在 Github 上编辑</a>
 								</div>
 							`);
 							loadFileCommitHistory();
@@ -182,6 +181,8 @@
 		<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 		<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 		<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
 		<style>
 			#main {
 				background: #fff;
@@ -336,18 +337,29 @@
 				right: -2px;
 			}
 			#edit-history:after {
-				content: 'Copyright Teaverse All Rights Reserved';
+				content: 'Copyright © Teaverse';
 				position: absolute;
 				bottom: -40px;
 				left: 0;
 				right: 0;
 				text-align: center;
 				color: #fff;
-				font-size: 18px;
+				font-size: 14px;
 				font-weight: 200;
 				opacity: .5;
 				pointer-events: none;
 			}
+			.sidebar-nav:after {
+        		content: "Copyright © Teaverse";
+        		position: absolute;
+        		left: 0;
+        		right: 0;
+       			text-align: center;
+        		font-size: 14px;
+        		font-weight: 200;
+        		opacity: 0.5;
+        		pointer-events: none;
+      }
 			input[type="search"] {
 				box-shadow: 0 1px 3px rgb(50 50 93 / 15%), 0 1px 0 rgb(0 0 0 / 2%) !important;
 				transition: all .2s ease !important;
@@ -437,10 +449,10 @@
 				opacity: 1;
 			}
 			#darkmode-toggle:before {
-				content: '💡 浅色模式';
+				content: '💡 浅色';
 			}
 			html.darkmode #darkmode-toggle:before {
-				content: '🌙 深色模式';
+				content: '🌙 深色';
 			}
 
 			#edit-history {
