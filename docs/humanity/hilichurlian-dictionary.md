@@ -7,8 +7,8 @@
 <font color=#cccccc>一般是无意义的附和他人。</font>
 
 #### aba
-**介** 在…之前（指时间）<br>
-**形** 前面
+**介** 在…之前<br>
+**形** 前面<br>
 **副** 向前
 
 #### aba mosi dada
@@ -386,3 +386,58 @@
 #### zido
 **代** 这个；某物；此处；某处<br>
 **例** mosi zido!（吃我/尝尝这个！）
+
+------
+## 丘名
+
+| 丘人原名 / Original Name | 丘英意译 / English Meaning Name | 丘英直译 / English Direct Name | 丘中英译 / Chinese English Direct Name | 丘中直译 / Chinese Direct Name | 丘中化译 / Chinese Meaning Name |
+| :----------------------: | :-----------------------------: | :----------------------------: | :------------------------------------: | :----------------------------: | :-----------------------------: |
+|        Aba Odomu         |             前·陌生             |         Front Strange          |              丰特·斯坦吉               |          阿巴·奥多姆           |             前疏生              |
+|        Bia Odomu         |             坏·陌生             |          Bad Strange           |              巴德·斯坦吉               |          比亚·奥多姆           |             怀坏疏              |
+|       Dada Kundala       |            最强·战敌            |        Strongest Fight         |              斯琼·福莱特               |          达达·昆达拉           |            强/最国战            |
+|        Dada Mita         |             最强·吃             |        Strongest Edible        |              斯琼·伊迪柏               |           达达·米塔            |            强/最食天            |
+|       Dada Wulyena       |                                 |                                |                                        |         达达·乌利耶纳          |                                 |
+|       Dada Nesina        |                                 |                                |                                        |          达达·奈西娜           |                                 |
+|        Dada Buka         |             最强·肚             |        Strongest Belly         |               斯琼·比利                |           达达·布卡            |            强/最唰肚            |
+|        Dada Beru         |             最强·言             |        Strongest Speak         |              斯琼·斯佩克               |           达达·贝鲁            |            强/最善言            |
+|       Dada Mosino        |                                 |                                |                                        |          达达·莫西诺           |                                 |
+|        Dada Tiga         |                                 |                                |                                        |           达达·蒂加            |                                 |
+|        Dada Plama        |                                 |                                |                                        |          达达·普拉玛           |                                 |
+|        Dada Zido         |                                 |                                |                                        |           达达·齐多            |                                 |
+|        Domu Sada         |              家者               |                                |                                        |           多姆·萨达            |                                 |
+|        Eleka Domu        |                                 |                                |                                        |          埃莉卡·多姆           |                                 |
+|        Mohe Nunu         |                                 |                                |                                        |           摩诃·努努            |                                 |
+|        Mosi Mita         |              吃·肉              |            Eat Meat            |               伊特·米特                |           莫斯·米塔            |                                 |
+|       Kundala Tiga       |                                 |                                |                                        |          昆达拉·蒂加           |                                 |
+|        Mita Buka         |                                 |                                |                                        |                                |                                 |
+|        Mani Plama        |                                 |                                |                                        |                                |                                 |
+|        Lata Buka         |                                 |                                |                                        |                                |                                 |
+|        Tiga Beru         |                                 |                                |                                        |                                |                                 |
+|        Movo Mita         |                                 |                                |                                        |                                |                                 |
+|        Nye Kucha         |                                 |                                |                                        |                                |                                 |
+|       Pupu Mosino        |                                 |                                |                                        |                                |                                 |
+|        Pupu Odomu        |                                 |                                |                                        |                                |                                 |
+|        Pupu Mani         |                                 |                                |                                        |                                |                                 |
+|        Movo Tiga         |                                 |                                |                                        |                                |                                 |
+|       Plata Odomu        |                                 |                                |                                        |                                |                                 |
+|        Odomu Zido        |                                 |                                |                                        |                                |                                 |
+|        Tiga Odomu        |                                 |                                |                                        |                                |                                 |
+|        Guru Buka         |                                 |                                |                                        |                                |                                 |
+|        Lata Movo         |                                 |                                |                                        |                                |                                 |
+|      Lata Movo Mani      |                                 |                                |                                        |                                |                                 |
+|      Lata Movo Domu      |                                 |                                |                                        |                                |                                 |
+|    Lata Movo Kundala     |                                 |                                |                                        |                                |                                 |
+|     Lata Movo Eleka      |                                 |                                |                                        |                                |                                 |
+|     Lata Movo Mosino     |                                 |                                |                                        |                                |                                 |
+|        Lata Sada         |                                 |                                |                                        |                                |                                 |
+|        Lata Dada         |                                 |                                |                                        |                                |                                 |
+|       Lata Kundala       |                                 |                                |                                        |                                |                                 |
+|        Lata Buka         |                                 |                                |                                        |                                |                                 |
+|        Lata Odomu        |                                 |                                |                                        |                                |                                 |
+|        Lata Mani         |                                 |                                |                                        |                                |                                 |
+|       Lata Mosino        |                                 |                                |                                        |                                |                                 |
+|       Lata Mitono        |                                 |                                |                                        |                                |                                 |
+|      Movo Nini Mani      |                                 |                                |                                        |                                |                                 |
+|     Movo Pupu Odomu      |                                 |                                |                                        |                                |                                 |
+|       Sada Wulyena       |                                 |                                |                                        |                                |                                 |
+|     Movo Pupu Odomu      |                                 |                                |                                        |                                |                                 |
