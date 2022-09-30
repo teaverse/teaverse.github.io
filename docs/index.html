@@ -37,7 +37,7 @@
 					},
 					noData: {
 						'/zh-cn/': '找不到结果',
-						'/': '无法查找 Cant find'
+						'/': '无结果。'
 					}
 				},
 				pagination: {
@@ -69,9 +69,9 @@
 							$("#edit-history").remove();
 							$("#main").after(`
 								<div class="markdown-section" id="edit-history">
-									<h2>编辑历史 Edit History <span id="latest-edit-time"></span></h2>
+									<h2>编辑历史 <span id="latest-edit-time"></span></h2>
 									<div id="edit-history-list">
-										本文尚且编写中… The page are Editing…
+										本文尚且编写中…
 									</div>
 									<a href="https://github.com/teaverse/teaverse.github.io/edit/main/${getCurrentFilePath()}" _target="_blank" id="edit-history-link">在 Github 上编辑</a>
 								</div>
@@ -104,7 +104,7 @@
 						`;
 					});
 					$("#edit-history-list").html(html);
-					$("#latest-edit-time").html("本文最后更新于 Last update on " + humanTimeDiff(res[0].commit.author.date));
+					$("#latest-edit-time").html("本文最后更新于 " + humanTimeDiff(res[0].commit.author.date));
 				}
 				if (sessionStorage.getItem(`edit-history-${getCurrentFilePath()}'}`)) {
 					processJson(JSON.parse(sessionStorage.getItem(`edit-history-${getCurrentFilePath()}'`)));
@@ -136,10 +136,10 @@
 					return "0 秒前";
 				}
 				if (delta < 1000 * 60 * 60){
-					return parseInt(delta / (1000 * 60)) + " " + "分前 min";
+					return parseInt(delta / (1000 * 60)) + " " + "分前";
 				}
 				if (delta < 1000 * 60 * 60 * 24){
-					return parseInt(delta / (1000 * 60 * 60)) + " " + "时前 hour";
+					return parseInt(delta / (1000 * 60 * 60)) + " " + "时前";
 				}
 				let yesterday = new Date(now - 1000 * 60 * 60 * 24);
 				yesterday.setHours(0);
