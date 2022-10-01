@@ -119,6 +119,6 @@
 柳达希卡的信<br>
 彦博的字条<br>
 枫原义庆的信<br>
-志琼的信<br>
+[志琼的信](humanity/book/zhiqiong.md)<br>
 荒泷盛世豪鼓大祭典<br>
 多莉交易暗号表<br>
