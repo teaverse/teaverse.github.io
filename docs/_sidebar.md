@@ -1,14 +1,12 @@
 - **茶室集团 Teaverse**
  	- [关于茶室 About](README.md)
 - **提瓦特地理 Geography**
-	- **手册 Guide**
-	- [行政规划表 Admin-region](geography/admin-region.md)
 - **提瓦特人文 Humanity**
-	- **介绍 About**
 	- [国家 Country](humanity/country.md)
 	- [语言与文字 Language](humanity/lang.md)
-	- [书籍与文本 Book](humanity/book.md)
-	- **手册 Guide**
-	- [丘语词典 Hilichurlian](humanity/hilichurlian-dictionary.md)
-	- [兰语词典 Aranara](humanity/aranara-dictionary.md)
+- **提瓦特手册 Guide**
+	- [行政区域 Admin-region](geography/admin-region.md)
+	- [万文集舍 Library](humanity/book.md)
+	- [丘语词典 Hilichurlian-dict](humanity/hilichurlian-dictionary.md)
+	- [兰语词典 Aranara-dict](humanity/aranara-dictionary.md)
 -  **Copyright © Teaverse**
