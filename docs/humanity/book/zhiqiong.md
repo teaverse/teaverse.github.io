@@ -1,4 +1,4 @@
-# 志琼的信 Zhiqiong's
+# 志琼的信 Zhiqiong
 
 致勘探队的各位：
 
