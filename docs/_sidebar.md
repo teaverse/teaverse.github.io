@@ -9,4 +9,5 @@
 	- [万文集舍 Library](humanity/book.md)
 	- [丘语词典 Hilichurlian-dict](humanity/hilichurlian-dictionary.md)
 	- [兰语词典 Aranara-dict](humanity/aranara-dictionary.md)
+	- [原音化乐 Soundtrack](humanity/soundtrack.md)
 -  **Copyright © Teaverse**
