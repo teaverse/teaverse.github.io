@@ -10,4 +10,5 @@
 	- [丘语词典 Hilichurlian-dict](humanity/hilichurlian-dictionary.md)
 	- [兰语词典 Aranara-dict](humanity/aranara-dictionary.md)
 	- [原音化乐 Soundtrack](humanity/soundtrack.md)
+	- [版本结绳 Version](version.md)
 -  **Copyright © Teaverse**
