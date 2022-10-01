@@ -8,10 +8,14 @@ Ad astra abyssosque!<br>
 They boldly venture "up to the stars, down to the abyss," or so their motto would have you believe. In truth, 
 they take on jobs ranging from finding kittens to exploring domains. 
 Well, you cannot afford to gaze at the stars or the abyss without an honest job.
+### 补充
+据岚姐叙述，冒险家协会的总部设立在至冬国。
+------
 ## 凯瑟琳 Katheryne
 **称号** <冒险家协会接待员><br>
-浑身是迷。<br>
-凯瑟琳在闲置时会说「异常」「重试」二句话，且其背后还有类似于钥匙孔状的装饰。终究在须弥魔神任务篇第二幕尾声中，被小草神实锤为「来自至冬的仿生人偶」，并在第三幕中因小草神被彻底抓捕导致凯瑟琳本体躯体损坏，此任务过后便被谁人及时替换为新的躯体，且对话增加一项选择「你感觉怎么样，凯瑟琳？」，但凯瑟琳会回答并没有感觉到什么。
+主要角色，浑身是迷。<br>
+凯瑟琳在闲置时会说「异常」「重试」二句话，且其背后还有类似于钥匙孔状的装饰，因此类因素多被玩家认定为机器人。终究在须弥魔神任务篇第二幕尾声中，被小草神实锤为「来自至冬的仿生人偶」，并在第三幕中因小草神被彻底抓捕导致凯瑟琳本体躯体损坏，此任务过后便被谁人及时替换为新的躯体，且对话增加一项选择「你感觉怎么样，凯瑟琳？」，但凯瑟琳会回答并没有感觉到什么。
+-----
 ## 界面文本 Guide Text
 #### 委托任务·地域
 **【委托任务·地域选择】**<br>
@@ -21,6 +25,7 @@ Well, you cannot afford to gaze at the stars or the abyss without an honest job.
 有时紧急的委托任务，会出现在所倾向的地域之外。<br>
 **【委托任务·地域选择随机】**<br>
 将倾向改为「随机」后，自下一次委托任务更新起，将不再以之前所选择的倾向地域为准。<br>
+------
 #### 秘境
 **【规则】**<br>
 完成秘境时，需要在秘境深处的「石化古树」处消耗「原粹树脂」来领取秘境中的宝藏。<br>
@@ -39,6 +44,7 @@ Well, you cannot afford to gaze at the stars or the abyss without an honest job.
 **炼武秘境：武器突破素材**<br>
 完成炼武秘境能获得武器突破素材。<br>
 武器突破素材可以用于武器突破，提升武器的属性数值和等级上限。<br>
+------
 ## 成员名单 Name List
 - 塞琉斯（蒙德分会长）
 - 艾尔菲（情报员）
@@ -51,15 +57,18 @@ Well, you cannot afford to gaze at the stars or the abyss without an honest job.
 - 玉霞（成员&雪山本营主管）
 - 伊尔佳（成员）
 - 盈珠（成员）
-- 琳（成员&野外厨师）
+- 琳（成员&生存专家）
+- 洛伽（成员）
 - 冒失的帕拉德（成员）
 - 害怕的舒特（成员）
 - 罗伊斯
 - 赫克勒
 - 伊尔佳（成员）
+- 艾莉丝（大冒险家）
 - 修斯（成员&飞行大师）
+- 罗尔德（大冒险家）
 ------
-- 古谷升（稻妻高层）
+- 古谷升（成员）
 - 柚子（成员）
 - 武田（成员）
 - 佐藤（成员）
@@ -72,9 +81,14 @@ Well, you cannot afford to gaze at the stars or the abyss without an honest job.
 - 丹迪（成员&飞行大师）
 - 治平（调查员）
 - 文泽（成员）
+- 宏朗
+- 琳阳
+- 盈珠
 - 志琼（成员&绘图师 下落不明）
 ------
 - 卡玛尔（须弥分会长）
 - 艾维娜（成员）
-- 维斯科（成 员）
-- 巴哈拉克（成 员）
+- 维斯科（成员）
+- 巴哈拉克（成员）
+- 费尔比
+- 阿布丁
