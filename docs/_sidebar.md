@@ -7,7 +7,7 @@
 - **提瓦特手册 Guide**
 	- [执政区划 Admin-region](geography/admin-region.md)
 	- [万文集舍 Library](humanity/book.md)
-	- [诸卷拾遗 Vols]()
+	- [诸卷拾遗 Vols](humanity/note.md)
 	- [丘丘词典 Hilichurlian-dict](humanity/hilichurlian-dictionary.md)
 	- [兰那词典 Aranara-dict](humanity/aranara-dictionary.md)
 	- [琴系弦音 Soundtrack](humanity/soundtrack.md)
