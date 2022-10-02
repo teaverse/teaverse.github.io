@@ -40,7 +40,7 @@ The junction between Liyue Harbor and the great mines of the Chasm. Work has cea
 「为了破解它的谜团，我决定通过隐秘的通道继续向深处探索…不知之后还能走多远，能否留下任何记录…」
 ### 任务日志
 - 层岩巨渊寻访记
-#### 「层岩巨渊深游记」
+-「层岩巨渊深游记」
 - 巧瞒七星解磐键	
 - 方入巨渊初探勘
 - 初识暗渊毒瘴现
