@@ -219,9 +219,6 @@
 **名** 风；风元素；元素的流动<br>
 **动** 移动；走动；跑动
 
-#### movo upano
-**名** 云
-
 #### movo unta
 **动** 逃跑；返回
 
@@ -333,7 +330,6 @@
 
 #### upano
 **名** 天上之物
-- movo upano 云
 
 ------
 ## V
@@ -391,6 +387,8 @@
 ------
 ## 丘名
 
+掌控元素的丘丘人萨满需要在前面加上其对应元素的词，如一个水丘丘萨满，Mita 名前加上 Lata Movo。
+
 | 丘人原名 / Original Name | 丘英意译 / English Meaning Name | 丘英直译 / English Direct Name | 丘中英译 / Chinese English Direct Name | 丘中直译 / Chinese Direct Name | 丘中化译 / Chinese Meaning Name |
 | :----------------------: | :-----------------------------: | :----------------------------: | :------------------------------------: | :----------------------------: | :-----------------------------: |
 |        Aba Odomu         |             前·陌生             |         Front Strange          |              丰特·斯坦吉               |          阿巴·奥多姆           |             前疏生              |
@@ -423,22 +421,4 @@
 |       Plata Odomu        |                                 |                                |                                        |                                |                                 |
 |        Odomu Zido        |                                 |                                |                                        |                                |                                 |
 |        Tiga Odomu        |                                 |                                |                                        |                                |                                 |
-|        Guru Buka         |                                 |                                |                                        |                                |                                 |
-|        Lata Movo         |                                 |                                |                                        |                                |                                 |
-|      Lata Movo Mani      |                                 |                                |                                        |                                |                                 |
-|      Lata Movo Domu      |                                 |                                |                                        |                                |                                 |
-|    Lata Movo Kundala     |                                 |                                |                                        |                                |                                 |
-|     Lata Movo Eleka      |                                 |                                |                                        |                                |                                 |
-|     Lata Movo Mosino     |                                 |                                |                                        |                                |                                 |
-|        Lata Sada         |                                 |                                |                                        |                                |                                 |
-|        Lata Dada         |                                 |                                |                                        |                                |                                 |
-|       Lata Kundala       |                                 |                                |                                        |                                |                                 |
-|        Lata Buka         |                                 |                                |                                        |                                |                                 |
-|        Lata Odomu        |                                 |                                |                                        |                                |                                 |
-|        Lata Mani         |                                 |                                |                                        |                                |                                 |
-|       Lata Mosino        |                                 |                                |                                        |                                |                                 |
-|       Lata Mitono        |                                 |                                |                                        |                                |                                 |
-|      Movo Nini Mani      |                                 |                                |                                        |                                |                                 |
-|     Movo Pupu Odomu      |                                 |                                |                                        |                                |                                 |
-|       Sada Wulyena       |                                 |                                |                                        |                                |                                 |
-|     Movo Pupu Odomu      |                                 |                                |                                        |                                |                                 |
+|        Guru Buka         |                                 |                                |                                        |                                |                                 |   
