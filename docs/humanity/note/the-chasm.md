@@ -5,8 +5,11 @@ The Chasm, which has been sealed, has experienced unknown shifts in recent days.
 To calm the disturbances below, an adventurous Exploration Team is formed to head down into the depths.<br>
 Go to The Chasm and clear a path for a new adventure.<br>
 The junction between Liyue Harbor and the great mines of the Chasm. Work has ceased here as of late due a shift deep within the Chasm.
+
 ### 地理志
+
 #### 层岩巨渊·地面矿区
+
 #### 层岩巨渊·地面景观
 「初来此地时，望见如此奇迹般的可怖地貌曾一度惊愕失声…那时的震撼与敬畏感，至今没有忘记。」<br>
 「但被总务司支使着跑上跑下久了，就算再巧夺天工的奇景也难免厌烦了…」<br>
@@ -38,6 +41,7 @@ The junction between Liyue Harbor and the great mines of the Chasm. Work has cea
 「尽管前辈警告再三，我还是跟随着他的脚步来到了这片区域。」<br>
 「天空般湛蓝的晶石巨柱，是我难以理解的景象…这是绝不属于大地的造物，只可能来自同它一般耀眼的天空。」<br>
 「为了破解它的谜团，我决定通过隐秘的通道继续向深处探索…不知之后还能走多远，能否留下任何记录…」
+
 ### 任务日志
 - 层岩巨渊寻访记
 - 层岩巨渊深游记
@@ -48,6 +52,7 @@ The junction between Liyue Harbor and the great mines of the Chasm. Work has cea
 - 九霄之石悬残片
 - 黑翳渐浓隐凶险
 - 灵石何故堕此间
+
 ## 人物风云
 - 沐宁（总务司专员）
 - 志琼（勘探队成员，制图师）
@@ -61,8 +66,11 @@ The junction between Liyue Harbor and the great mines of the Chasm. Work has cea
 - 安东（愚人众连队成员）
 - 夜兰（突击探查）
 - 赞玛兰（能言善道大蘑菇）
+
 ## 遗卷
+
 ### 告示
+
 #### 小心！
 **小心·层岩其一**<br>
 「此为岩王古战场孑遗之物，工程人员途径时请切记安全守则规范，不得高声喧嚷，或以强力震动岩髓，否则一旦发生事故，后果自负！」<br>
